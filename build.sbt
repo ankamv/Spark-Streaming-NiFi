@@ -1,4 +1,4 @@
-name := "spark-streaming-wordcount-on-nifi"
+name := "spark-streaming-with-nifi"
 
 version := "1.0"
 
